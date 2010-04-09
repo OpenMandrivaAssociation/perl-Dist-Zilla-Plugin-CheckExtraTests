@@ -1,9 +1,9 @@
 %define upstream_name    Dist-Zilla-Plugin-CheckExtraTests
-%define upstream_version 0.002
+%define upstream_version 0.004
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
-Release:    %mkrel 2
+Release:    %mkrel 1
 
 Summary:    Check xt tests before release
 License:    GPL+ or Artistic
