@@ -1,9 +1,9 @@
 %define upstream_name    Dist-Zilla-Plugin-CheckExtraTests
-%define upstream_version 0.004
+%define upstream_version 0.021
 
 Name:		perl-%{upstream_name}
 Version:	%perl_convert_version %{upstream_version}
-Release:	4
+Release:	1
 
 Summary:	Check xt tests before release
 License:	GPL+ or Artistic
@@ -48,4 +48,3 @@ perl Makefile.PL INSTALLDIRS=vendor
 %doc Changes LICENSE META.yml README
 %{_mandir}/man3/*
 %{perl_vendorlib}/*
-

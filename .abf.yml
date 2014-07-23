@@ -1,2 +1,4 @@
+removed_sources:
+  Dist-Zilla-Plugin-CheckExtraTests-0.004.tar.gz: f9aeb7bf5b972a5c6e73c301c5886d08bd0125bd
 sources:
-  "Dist-Zilla-Plugin-CheckExtraTests-0.004.tar.gz": f9aeb7bf5b972a5c6e73c301c5886d08bd0125bd
+  Dist-Zilla-Plugin-CheckExtraTests-0.021.tar.gz: bda1d3970d51698d3d8a6b4e7d54b5133f0e4661
